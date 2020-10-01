@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AnaliseDadosApiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AnaliseDadosApiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(AnaliseDadosApiApplication.class, args);
+    }
 
 }
